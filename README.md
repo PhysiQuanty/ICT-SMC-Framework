@@ -1,1 +1,1 @@
-# SMC-ICT-Framework
+# ICT-SMC-Framework
